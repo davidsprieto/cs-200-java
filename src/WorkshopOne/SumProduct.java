@@ -1,3 +1,5 @@
+package WorkshopOne;
+
 import java.util.Scanner;
 
 public class SumProduct {
