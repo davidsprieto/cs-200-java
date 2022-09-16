@@ -39,8 +39,6 @@ public class PhonePrompt {
             System.out.println("Good day, you have reached customer service, and all of our representatives are busy at the moment, please leave a message.");
         } else if (option == 5) {
             System.out.println("Hello, this is the operator how may I assist you?");
-        } else {
-            System.out.println("Have a good day!");
         }
 
     }
