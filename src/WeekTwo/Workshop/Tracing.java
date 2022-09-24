@@ -1,4 +1,4 @@
-package WeekTwo;
+package WeekTwo.Workshop;
 
 public class Tracing {
 

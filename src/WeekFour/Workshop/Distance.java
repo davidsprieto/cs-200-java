@@ -1,4 +1,4 @@
-package WeekFour;
+package WeekFour.Workshop;
 
 import java.util.Scanner;
 

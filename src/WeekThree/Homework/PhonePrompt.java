@@ -6,7 +6,7 @@
 // Due: 09/16/2022
 // PhonePrompt.java
 
-package WeekThree;
+package WeekThree.Homework;
 
 import java.util.Scanner;
 

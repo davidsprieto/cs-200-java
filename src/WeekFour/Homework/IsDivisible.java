@@ -6,7 +6,7 @@
 // Due: 09/23/2022
 // IsDivisible.java
 
-package WeekFour;
+package WeekFour.Homework;
 
 import java.util.Scanner;
 

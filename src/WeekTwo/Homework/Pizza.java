@@ -6,7 +6,7 @@
 // Due: 09/09/2022
 // Pizza.java
 
-package WeekTwo;
+package WeekTwo.Homework;
 
 public class Pizza {
 
