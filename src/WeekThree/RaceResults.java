@@ -6,7 +6,7 @@
 // Due: 09/16/2022
 // RaceResults.java
 
-package HomeworkTwo;
+package WeekThree;
 
 import java.util.Scanner;
 

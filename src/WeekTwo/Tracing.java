@@ -1,4 +1,4 @@
-package WorkshopOne;
+package WeekTwo;
 
 public class Tracing {
 
