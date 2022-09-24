@@ -6,7 +6,7 @@
 // Due: 09/23/2022
 // Quadrilateral.java
 
-package WeekFour.Homework;
+package WeekFour.HomeworkFour;
 
 import java.util.Scanner;
 

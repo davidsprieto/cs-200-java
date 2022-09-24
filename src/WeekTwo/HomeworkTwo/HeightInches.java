@@ -6,7 +6,7 @@
 // Due: 09/09/2022
 // HeightInches.java
 
-package WeekTwo.Homework;
+package WeekTwo.HomeworkTwo;
 
 import java.util.Scanner;
 

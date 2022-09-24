@@ -1,4 +1,4 @@
-package WeekTwo.Workshop;
+package WeekTwo.WorkshopTwo;
 
 import java.util.Scanner;
 
