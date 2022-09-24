@@ -1,3 +1,11 @@
+// CS200
+// Fall, 2022
+// David Prieto
+// Instructor: Y. Gutstein
+// HW #3: Characters and Strings
+// Due: 09/23/2022
+// Quadrilateral.java
+
 package WeekFour;
 
 import java.util.Scanner;
