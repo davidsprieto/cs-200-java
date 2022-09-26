@@ -6,7 +6,7 @@
 // Due: 09/30/2022
 // SortNumbers.java
 
-package WeekFive.Homework;
+package WeekFive.HomeworkFive;
 
 import java.util.Arrays;
 import java.util.Scanner;

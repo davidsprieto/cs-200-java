@@ -6,7 +6,7 @@
 // Due: 09/30/2022
 // Operations.java
 
-package WeekFive.Homework;
+package WeekFive.HomeworkFive;
 
 public class Operations {
     public static void main(String[] args) {
