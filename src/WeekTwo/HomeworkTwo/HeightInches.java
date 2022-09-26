@@ -2,7 +2,7 @@
 // Fall, 2022
 // David Prieto
 // Instructor: Y. Gutstein
-// HW #1: Elementary Programming
+// HW #2: Elementary Programming
 // Due: 09/09/2022
 // HeightInches.java
 

@@ -2,7 +2,7 @@
 // Fall, 2022
 // David Prieto
 // Instructor: Y. Gutstein
-// HW #2: Selections (If-Else)
+// HW #1: Selections (If-Else)
 // Due: 09/16/2022
 // PhonePrompt.java
 

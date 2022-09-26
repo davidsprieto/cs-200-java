@@ -2,7 +2,7 @@
 // Fall, 2022
 // David Prieto
 // Instructor: Y. Gutstein
-// HW #3: Characters and Strings
+// HW #1: Characters and Strings
 // Due: 09/23/2022
 // IsDivisible.java
 
