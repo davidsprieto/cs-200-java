@@ -2,7 +2,7 @@
 // Fall, 2022
 // David Prieto
 // Instructor: Y. Gutstein
-// HW #1: For Loop
+// HW #1: For Loops
 // Due: 10/07/2022
 // ForLoop.java
 
