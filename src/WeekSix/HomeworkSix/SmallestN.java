@@ -25,7 +25,6 @@ public class SmallestN {
                 return;
             }
         }
-
     }
 
 }
