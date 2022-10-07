@@ -17,7 +17,7 @@ public class Problem3 {
     }
 
     public static boolean allDigitsOdd(int n) {
-        int[] arr = Integer.toString(n).chars().map(a -> a - '0').toArray();
+        int[] arr = Integer.toString(n).chars().map(a -> (a - '0')).toArray();
 
         for (int i = 0; i < arr.length; i ++) {
             if (arr[i] % 2 == 0) {
