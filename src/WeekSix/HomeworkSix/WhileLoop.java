@@ -15,7 +15,7 @@ public class WhileLoop {
     public static void main(String[] args) {
 
         Scanner kbd = new Scanner(System.in);
-        double score = 0, sum = 0.0, avg;
+        double score = 0.0, sum = 0.0, avg;
         int count = 0;
 
         while (score != -1) {
