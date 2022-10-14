@@ -20,12 +20,12 @@ public class Reverse {
 
         int[] array = new int[10];
 
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < array.length; i++) {
             array[i] = kbd.nextInt();
         }
 
         System.out.print("The reverse is: ");
-        for (int i = 9; i >= 0; i--) {
+        for (int i = array.length - 1; i >= 0; i--) {
             System.out.print(array[i] + " ");
         }
 

@@ -1,3 +1,11 @@
+// CS200
+// Fall, 2022
+// David Prieto
+// Instructor: Y. Gutstein
+// HW #2: Arrays
+// Due: 10/14/2022
+// Identical.java
+
 package WeekSeven.HomeworkSeven;
 
 import java.util.Scanner;
