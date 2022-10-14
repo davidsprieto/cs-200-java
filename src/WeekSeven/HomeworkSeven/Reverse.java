@@ -6,7 +6,7 @@
 // Due: 10/14/2022
 // Reverse.java
 
-package WeekSeven;
+package WeekSeven.HomeworkSeven;
 
 import java.util.Scanner;
 
