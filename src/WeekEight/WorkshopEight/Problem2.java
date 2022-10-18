@@ -23,12 +23,12 @@ public class Problem2 {
     public static boolean[] multipleOfIndices(int[] array) {
         boolean[] boolArr = new boolean[array.length];
         for (int i = 2; i < array.length; i++) {
-            if (array[0] % 10 == 0)
-                boolArr[0] = true;
-            if (array[1] % 10 == 1)
-                boolArr[1] = true;
             if (array[i] % i == 0)
                 boolArr[i] = true;
+            if (array[1] % 10 == 1)
+                boolArr[1] = true;
+            if (array[0] % 10 == 0)
+                boolArr[0] = true;
         }
         return boolArr;
     }
