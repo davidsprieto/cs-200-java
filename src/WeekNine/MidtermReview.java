@@ -3,8 +3,8 @@ package WeekNine;
 public class MidtermReview {
 
     public static void main(String[] args) {
-//        int[] myArray = {20, 40, 15, 12, 7, 1, 56};
-//        System.out.println(sumOfOdds(myArray));
+        int[] myArray = {20, 40, 15, 12, 7, 1, 56};
+        System.out.println(sumOfOdds(myArray));
 
         int[] myArray1 = {3, 8, 17, 25, 89, 94};
         System.out.println(goingWhichWay(myArray1));
@@ -19,14 +19,14 @@ public class MidtermReview {
         System.out.println(goingWhichWay(myArray4));
     }
 
-//    public static int sumOfOdds(int[] myArray) {
-//        int sum = 0;
-//        for (int i = 0; i < myArray.length; i++) {
-//            if (myArray[i] % 2 == 1)
-//                sum += myArray[i];
-//        }
-//        return sum;
-//    }
+    public static int sumOfOdds(int[] myArray) {
+        int sum = 0;
+        for (int i = 0; i < myArray.length; i++) {
+            if (myArray[i] % 2 == 1)
+                sum += myArray[i];
+        }
+        return sum;
+    }
 
     public static int goingWhichWay(int[] myArray) {
         boolean increasing = false;
