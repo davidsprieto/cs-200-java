@@ -18,6 +18,10 @@ public class Problem1 {
         int[] d = {-2, 8, 9};
         int[] d1 = noDuplicates(d);
         printArray(d1);
+
+        int[] e = {3, 3, 3, 3, 3};
+        int[] e1 = noDuplicates(e);
+        printArray(e1);
     }
 
     public static int[] noDuplicates(int[] a) {
@@ -38,13 +42,14 @@ public class Problem1 {
         int index = 0;
         boolean exists = false;
         for (int i = 1; i < a.length; i++) {
+            if (index == arr.length) {
+                break;
+            }
             for (int j = 0; j < i; j++) {
                 if (a[j] == a[i]) {
                     exists = true;
                     arr[index] = a[i];
                     index++;
-                    break;
-                } else if (index == arr.length) {
                     break;
                 } else if ((i == a.length - 1) && (a[j] != a[i])) {
                     arr[index] = a[i];
