@@ -1,4 +1,4 @@
-package WeekTen;
+package WeekTen.Workshop;
 
 public class Problem1 {
 
