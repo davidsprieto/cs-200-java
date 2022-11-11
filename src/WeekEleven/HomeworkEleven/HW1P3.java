@@ -1,4 +1,4 @@
-package WeekEleven;
+package WeekEleven.HomeworkEleven;
 
 public class HW1P3 {
     public static void main(String[] args) {

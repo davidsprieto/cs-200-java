@@ -1,4 +1,4 @@
-package WeekEleven;
+package WeekEleven.HomeworkEleven;
 
 public class Piano {
     private int c;

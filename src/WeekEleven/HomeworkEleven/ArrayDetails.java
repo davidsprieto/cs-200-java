@@ -6,7 +6,7 @@
 // Due: 11/11/2022
 // ArrayDetails.java
 
-package WeekEleven;
+package WeekEleven.HomeworkEleven;
 
 public class ArrayDetails {
 
