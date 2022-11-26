@@ -20,7 +20,7 @@ public class Decimals {
 
     public static void main(String[] args) {
         Decimals.printDecimalDigits(37.25);
-        Decimals.printDecimalDigits(1000d);
+        Decimals.printDecimalDigits(1000D);
         Decimals.printDecimalDigits(18.3927493038);
     }
 
