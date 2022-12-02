@@ -30,16 +30,16 @@ public class Problem2 {
     public static void printArray(int[][] a) {
         System.out.print("{{");
         for (int row = 0; row < a.length; row++) {
-            for (int column = 0; column < a[0].length; column++) {
+            for (int column = 0; column < a[row].length; column++) {
                 System.out.print(a[row][column]);
-                if (column < a[0].length - 1) {
+                if (column < a[row].length - 1) {
                     System.out.print(", ");
                 }
-                if (row == a.length - 1 && column == a[0].length - 1) {
+                if (row == a.length - 1 && column == a[row].length - 1) {
                     System.out.println("}};");
                     break;
                 }
-                if (column == a[0].length - 1) {
+                if (column == a[row].length - 1) {
                     System.out.println("},");
                     System.out.print("{");
                 }
