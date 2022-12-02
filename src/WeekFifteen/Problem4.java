@@ -24,20 +24,21 @@ public class Problem4 {
         total /= 2;
         dimArr[1] = new int[(int) total];
 
-        int ind = 1, index = 0;
-        for (int i = 0; i < inputArr.length; i++, ind++) {
+        int i, index = 0;
+        for (i = 0; i < inputArr.length; i++) {
             if (inputArr[i] % 2 != 0) {
                 dimArr[0][index] = inputArr[i];
                 index++;
                 if (index == dimArr[0].length) {
+                    i++;
                     break;
                 }
             }
         }
         index = 0;
-        for (int i = ind; i < inputArr.length; i++) {
-            if (inputArr[i] % 2 != 0 && index < dimArr[1].length) {
-                dimArr[1][index] = inputArr[i];
+        for (int j = i; j < inputArr.length; j++) {
+            if (inputArr[j] % 2 != 0 && index < dimArr[1].length) {
+                dimArr[1][index] = inputArr[j];
                 index++;
             }
         }
