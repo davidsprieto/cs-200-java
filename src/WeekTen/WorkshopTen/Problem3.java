@@ -17,7 +17,6 @@ public class Problem3 {
 
         int[][] a2 = deepReverse(arr2);
         printArray(a2);
-
     }
 
     public static int[][] deepReverse(int[][] a) {
