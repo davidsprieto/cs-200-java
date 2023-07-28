@@ -1,4 +1,4 @@
-# CS-200: Programming I - College Course Taken to Learn the Basics of Java Programming!
+# CS-200: Programming I
 
 Programming Language:
 - Java
